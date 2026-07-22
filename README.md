@@ -46,7 +46,6 @@ PYuri/
 │   ├── images/
 │   └── tiles/
 ├── drafts/
-├── screenshots/
 ├── requirements.txt
 └── README.md
 ```
